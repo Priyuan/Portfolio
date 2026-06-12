@@ -32,8 +32,8 @@
 
 - **Dynamic Resource Allocation using Quantum Algorithm and Game Theoretic Approach**
 - **Physics-Aware Port-Hamiltonian Graph Neural Controlled Differential Equations for Student Stress Forecasting**
-- *Under Review:* IEEE ICASSP 2026 (Mental Health Forecasting)
-- *Under Review:* Computers and Electronics in Agriculture (Vertical Farming + AI)
+- *Under Review:* (Mental Health Forecasting)
+- *Under Review:* Ecological Informatics (Vertical Farming + AI)
 - *Accepted:* MAiTRI 2026 (Homelessness Prediction, Aberdeen)
 - *Accepted:* AHFE International Conference (Women's Health ML)
 
