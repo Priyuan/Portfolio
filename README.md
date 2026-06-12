@@ -6,14 +6,12 @@
 
 <h1 align="center">Priyanshi Kumari</h1>
 <h3 align="center">Computer Science Undergrad @ KIIT | Minor in Quantum Computing</h3>
-
 <p align="center">
-  <a href="mailto:priyanshi140011@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/priyanshikumari-ab22242b3"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://scholar.google.com"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"></a>
+  <a href="mailto:priyanshi140011@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/priyanshi-kumari-ab22242b3/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://scholar.google.com"><img src="https://img.shields.io/badge/-Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"></a>
+  <a href="https://www.researchgate.net/profile/Priyanshi-Kumari-4"><img src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"></a>
 </p>
-
----
 
 ## 🔬 Research Experience
 
